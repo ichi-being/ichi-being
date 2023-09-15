@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ichi-being
-- 👀 I’m interested in web3
 - 🌱 I’m currently learning Ruby,Ruby on Rails
 
 <!---
