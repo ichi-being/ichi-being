@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ichi-being
-- 🌱 I’m currently learning Ruby,Ruby on Rails
+👋 Hi, I’m @ichi-being  
+🌱 I’m currently learning Ruby,Ruby on Rails
 
 <!---
 ichi-being/ichi-being is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
